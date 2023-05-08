@@ -1,0 +1,6 @@
+.tarjeta {
+  max-height: 250vh;
+}
+.texto {
+    max-height: min-content;
+}
